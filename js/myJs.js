@@ -3,14 +3,14 @@ const textConfig = {
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
   text3: "Cậu muốn đi ăn hay đi chạy nào ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn đi chạy rùi đó nha :v",
-  text5: "Đi ăn đi ăn",
+  text5: "Đi ăn Đi ăn",
   text6: "Rất rất muốn đi chạy",
-  text7: "lí do cậu thích đi chạy :vvvv",
+  text7: "T biết mà, sao c lại thích đi chạy vậy",
   text8: "Gửi cho tớ <3",
   text9: "Vì đi ăn béo vl ấyy",
   text10: "Tớ biết mà ^^",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Tối nay tớ qua đón cậu đi chạy nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
   text12: "Okii lunn <3",
 };
 
